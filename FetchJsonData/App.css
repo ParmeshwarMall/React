@@ -1,0 +1,23 @@
+.heading{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.main-body{
+  border: 2px solid red;
+  padding: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.card{
+  width: 20rem;
+  background-color: #f0f0f0;
+  padding: 20px;
+  border: 1px solid #3c3c49;
+  margin: 20px;
+
+}
